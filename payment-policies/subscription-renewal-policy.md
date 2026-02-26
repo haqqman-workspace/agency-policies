@@ -157,4 +157,5 @@ Legacy billing structures may be aligned to this model gradually.
 ---
 **Approved By**
 Zulfah Isimekhai-Sule ACA
-Chief Payments Officer of Haqqman
+
+Chief Payments Officer
