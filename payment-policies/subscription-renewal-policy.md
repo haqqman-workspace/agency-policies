@@ -66,7 +66,7 @@ Proration applies to:
 - Hosting upgrades  
 - Newly added managed services  
 
----
+
 
 ## 5. Annual Consolidated Renewal
 
@@ -86,7 +86,7 @@ This ensures:
 - Clean accounting  
 - Enterprise-grade structure  
 
----
+
 
 ## 6. Domain-Specific Notes
 
@@ -106,7 +106,7 @@ If a client manages their own domain:
 - Service disruptions caused by domain expiration remain the client’s responsibility.  
 - MRD remains based on first paid service.  
 
----
+
 
 ## 7. Seat-Based Services (Workmail)
 
@@ -121,7 +121,7 @@ At renewal:
 `Total Active Seats × Annual Seat Price`
 
 
----
+
 
 ## 8. Non-Payment Policy
 
@@ -134,7 +134,7 @@ If a renewal invoice remains unpaid past the grace period:
 
 Restoration may incur administrative fees.
 
----
+
 
 ## 9. Exceptional Cases
 
@@ -146,7 +146,7 @@ Exceptions to this policy may apply for:
 
 Any deviation must be documented in writing within the client’s account file.
 
----
+
 
 ## 10. Policy Governance
 
@@ -154,7 +154,7 @@ This policy applies to all new and migrated clients moving forward.
 
 Legacy billing structures may be aligned to this model gradually.
 
----
+
 **Approved By**
 Zulfah Isimekhai-Sule ACA
 
