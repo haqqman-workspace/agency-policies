@@ -155,5 +155,6 @@ This policy applies to all new and migrated clients moving forward.
 Legacy billing structures may be aligned to this model gradually.
 
 ---
-**Approved By:** Haqqman Management  
-
+**Approved By**
+Zulfah Isimekhai-Sule ACA
+Chief Payments Officer of Haqqman
